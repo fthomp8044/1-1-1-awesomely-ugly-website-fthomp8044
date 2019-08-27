@@ -1,0 +1,20 @@
+p {
+  color: red;
+  font-size:130%;
+}
+
+#intro {
+  color: white;
+  background-color: gray;
+}
+
+p .serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.first {font-size: 200%;}
+
+#intro {
+  color: white;
+  background-color: gray;
+}
