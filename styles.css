@@ -11,3 +11,10 @@ p {
 p .serif {
   font-family: "Times New Roman", Times, serif;
 }
+
+.first {font-size: 200%;}
+
+#intro {
+  color: white;
+  background-color: gray;
+}
