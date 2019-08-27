@@ -1,4 +1,8 @@
-p {
+* {
+  box-sizing: d
+}
+ p {
+
   color: red;
   font-size:130%;
 }
